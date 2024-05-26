@@ -1,4 +1,4 @@
-## Hi there 👋
+# <img src = "https://media.giphy.com/media/LHy9iUZDBxjEwNexJm/giphy.gif" width ="100"/> Welcome to my GitHub ⚡
 
 <!--
 **JaenR18/JaenR18** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
