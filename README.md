@@ -1,5 +1,6 @@
-# <img src = "https://media.giphy.com/media/usXZmmgP9Z7kf39fnq/giphy.gif" width ="100"/> Welcome to my GitHub ⚡
+# <img src = "https://media.giphy.com/media/2IudUHdI075HL02Pkk/giphy.gif" width ="1000"/> 🔭 Welcome to my GitHub ⚡
 
+- 🌱 I’m currently learning something new...
 
 <!--
 **JaenR18/JaenR18** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
