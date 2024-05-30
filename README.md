@@ -1,4 +1,5 @@
-# <img src = "https://media.giphy.com/media/LHy9iUZDBxjEwNexJm/giphy.gif" width ="100"/> Welcome to my GitHub ⚡
+# <img src = "https://media.giphy.com/media/usXZmmgP9Z7kf39fnq/giphy.gif" width ="100"/> Welcome to my GitHub ⚡
+
 
 <!--
 **JaenR18/JaenR18** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +15,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
